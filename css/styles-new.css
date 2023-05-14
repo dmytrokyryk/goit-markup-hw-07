@@ -1370,7 +1370,6 @@ img {
     padding-top: 64px;
 }
 
-/* Page filter */
 .filter-list {
     display: flex;
     flex-wrap: wrap;
@@ -1430,8 +1429,6 @@ img {
         margin-bottom: 72px;
     }
 }
-
-/* Work examples */
 .portfolio-list {
     display: flex;
     flex-wrap: wrap;
